@@ -1,0 +1,8 @@
+{
+    "author" : ["Venom"],
+    "description" : "Invite link to bot",
+    "hidden" : false,
+    "install_msg" : "Thank you for adding this cog!",
+    "requirements": [],
+    "tags" : ["invite"]
+}
